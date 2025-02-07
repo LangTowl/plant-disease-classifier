@@ -1,5 +1,4 @@
 # Assignment Details
----
 **Topic**: ConvNets  
 
 **Application**: Cassava/Yuca diseases classification  
